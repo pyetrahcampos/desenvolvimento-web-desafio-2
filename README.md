@@ -5,9 +5,7 @@ React Hook Form (Gerenciamento de formulários)
 
 Yup (Validação de dados)
 
-LocalStorage (Persistência de dados)
-
-CSS3 (Estilização personalizada)
+CSS(Estilização personalizada)
 
  <h1> Como rodar o projeto </h1>
 Clone o repositório
